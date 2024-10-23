@@ -1,0 +1,20 @@
+<ArrayList>
+  <item>
+    <nome>carmen</nome>
+    <colore>rosso</colore>
+    <grandezza>piccolo</grandezza>
+    <tipoPesce>pesce rosso</tipoPesce>
+  </item>
+  <item>
+    <nome>antimo</nome>
+    <colore>rosso</colore>
+    <grandezza>grande</grandezza>
+    <tipoPesce>pesce rosso</tipoPesce>
+  </item>
+  <item>
+    <nome>rossella</nome>
+    <colore>blu</colore>
+    <grandezza>piccola</grandezza>
+    <tipoPesce>pesce palla</tipoPesce>
+  </item>
+</ArrayList>
